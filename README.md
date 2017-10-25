@@ -11,6 +11,8 @@
     Distros Supported: Linux Kali, Ubuntu, Mint
     Suspicious-Shell-Activity© (SSA) RedTeam develop @2017
 
+![backdoorppt](http://i.cubeupload.com/2JJ2IA.png)
+
 <br />
 
 ## Transform your payload.exe into one fake word doc (.ppt)
@@ -28,7 +30,7 @@
     Edit the 'settings' file to chose what method should be used..
 
     cd backdoorppt && nano settings
-![backdoorppt](http://3.1m.yt/7KSe1Vv.png)
+![backdoorppt](http://i.cubeupload.com/ldKWDd.png)
 
 ## Dependencies (backend applications required)
 
@@ -48,12 +50,11 @@
 
 <br /><br />
 
-
 ## Backdoorppt working (Kali distros)
-![backdoorppt](http://1.1m.yt/ngKwUAG.png)
+![backdoorppt](http://i.cubeupload.com/ueWu5R.png)
 
 ## transformed files on-target system (windows)
-![backdoorppt](http://4.1m.yt/IBwxk5T.jpg)
+![backdoorppt](http://i.cubeupload.com/Hkv0jp.jpeg)
 
 <br /><br />
 
@@ -61,6 +62,14 @@
 
     Target user thinks they are opening a word document file,
     but in fact they are executing one binary payload insted.
+
+<br />
+
+
+
+## Video tutorials:
+
+backdoorppt: https://www.youtube.com/watch?v=k4UJW4p1E3w&t=1s
 
 <br />
 
